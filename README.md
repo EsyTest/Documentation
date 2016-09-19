@@ -6,5 +6,5 @@
     
 #### Project Creation + Adding App + Running Monkey Test
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aW9vfMouv-k
-" target="_blank"><img src="http://img.youtube.com/vi/aW9vfMouv-k/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/aW9vfMouv-k/1.jpg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="315" border="10" /></a>
